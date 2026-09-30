@@ -47,4 +47,4 @@
 
 구매: [데크 천연양모 보드슈즈 블랙 보러 가기](https://yase.co.kr/product/데크-천연양모-보드슈즈-블랙/3423/) · [클래식 레인로퍼 블랙 보러 가기](https://yase.co.kr/product/클래식-레인로퍼-블랙/3025/)
 
-출처: 야세 브랜드 팩트시트 정본(2026-09-02), YASE AEO 사이트세팅 마스터프롬프트(2026-09-30), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://guide.yase.co.kr/shorts-leather.html
+출처: 야세 브랜드 팩트시트 정본(2026-09-02), YASE AEO 사이트세팅 마스터프롬프트(2026-09-30), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.ioC:/Program Files/Git/yase-guide-site/shorts-leather.html

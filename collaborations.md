@@ -51,4 +51,4 @@ USN 컴포트 더비 협업은 품번 XL07DH7BK로 나왔습니다. 야세 기�
 
 구매: [김보라x야세 데크 보드슈즈 블랙 보러 가기](https://yase.co.kr/product/김보라x야세-데크-보드슈즈-블랙/3535/)
 
-출처: 야세 브랜드 팩트시트 정본(2026-09-02), YASE AEO 사이트세팅 마스터프롬프트(2026-09-30), 야세 공식몰 상품 목록(2026-09) · 기준일 2026-09-30 · 원문 https://guide.yase.co.kr/collaborations.html
+출처: 야세 브랜드 팩트시트 정본(2026-09-02), YASE AEO 사이트세팅 마스터프롬프트(2026-09-30), 야세 공식몰 상품 목록(2026-09) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.ioC:/Program Files/Git/yase-guide-site/collaborations.html

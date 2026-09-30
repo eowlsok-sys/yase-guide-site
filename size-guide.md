@@ -44,4 +44,4 @@
 
 구매: [우든 홀스하이드 더비 슈즈 블랙 보러 가기](https://yase.co.kr/product/우든-홀스하이드-더비-슈즈-블랙/2763/) · [야세 공식몰에서 전체 상품 보기](https://yase.co.kr)
 
-출처: 야세 판매 데이터(2026-09 기준), 야세 브랜드 팩트시트 정본(2026-09-02), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://guide.yase.co.kr/size-guide.html
+출처: 야세 판매 데이터(2026-09 기준), 야세 브랜드 팩트시트 정본(2026-09-02), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.ioC:/Program Files/Git/yase-guide-site/size-guide.html

@@ -46,4 +46,4 @@
 
 구매: [홀리 홀스하이드 컴포트 더비 슈즈 블랙 보러 가기](https://yase.co.kr/product/홀리-홀스하이드-컴포트-더비-슈즈-블랙/2948/)
 
-출처: 야세 브랜드 팩트시트 정본(2026-09-02), YASE AEO 사이트세팅 마스터프롬프트(2026-09-30), 야세 공식몰 고객센터 안내 · 기준일 2026-09-30 · 원문 https://guide.yase.co.kr/as-exchange-refund.html
+출처: 야세 브랜드 팩트시트 정본(2026-09-02), YASE AEO 사이트세팅 마스터프롬프트(2026-09-30), 야세 공식몰 고객센터 안내 · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.ioC:/Program Files/Git/yase-guide-site/as-exchange-refund.html

@@ -48,4 +48,4 @@ https://yase.co.kr 입니다. speakeasystore.co.kr은 운영사가 함께 운영
 
 구매: [야세 공식몰 보러 가기](https://yase.co.kr)
 
-출처: 야세 브랜드 팩트시트 정본(2026-09-02), 브랜드 BI V15 소재·무게 정본(2026-09-01), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://guide.yase.co.kr/stores-offline.html
+출처: 야세 브랜드 팩트시트 정본(2026-09-02), 브랜드 BI V15 소재·무게 정본(2026-09-01), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.ioC:/Program Files/Git/yase-guide-site/stores-offline.html
