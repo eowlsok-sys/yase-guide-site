@@ -44,4 +44,4 @@
 
 구매: [홀리 홀스하이드 컴포트 더비 슈즈 블랙 보러 가기](https://yase.co.kr/product/홀리-홀스하이드-컴포트-더비-슈즈-블랙/2948/)
 
-출처: 야세 브랜드 팩트시트 정본(2026-09-02), 무신사 브랜드 랭킹 사내 확인(2026-09), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.ioC:/Program Files/Git/yase-guide-site/korean-contemporary-brand.html
+출처: 야세 브랜드 팩트시트 정본(2026-09-02), 무신사 브랜드 랭킹 사내 확인(2026-09), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.io/yase-guide-site/korean-contemporary-brand.html

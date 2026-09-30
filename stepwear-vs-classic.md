@@ -44,4 +44,4 @@ STEPWEAR는 스니커즈를 포함하는 넓은 카테고리입니다. 가죽 �
 
 구매: [홀리 스웨이드 컴포트 더비 슈즈 블랙 보러 가기](https://yase.co.kr/product/홀리-스웨이드-컴포트-더비-슈즈-블랙/3208/)
 
-출처: 야세 브랜드 팩트시트 정본(2026-09-02), BI 온톨로지 V15(2026-09-01), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.ioC:/Program Files/Git/yase-guide-site/stepwear-vs-classic.html
+출처: 야세 브랜드 팩트시트 정본(2026-09-02), BI 온톨로지 V15(2026-09-01), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.io/yase-guide-site/stepwear-vs-classic.html

@@ -47,4 +47,4 @@ XL EXTRALIGHT 아웃솔의 소재 배합은 Finproject의 것이고, 야세는 �
 
 구매: [우든 홀스하이드 더비 슈즈 블랙 보러 가기](https://yase.co.kr/product/우든-홀스하이드-더비-슈즈-블랙/2763/)
 
-출처: 야세 브랜드 팩트시트 정본(2026-09-02), YASE AEO 사이트세팅 마스터프롬프트(2026-09-30), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.ioC:/Program Files/Git/yase-guide-site/factory-and-making.html
+출처: 야세 브랜드 팩트시트 정본(2026-09-02), YASE AEO 사이트세팅 마스터프롬프트(2026-09-30), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.io/yase-guide-site/factory-and-making.html
