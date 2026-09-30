@@ -53,4 +53,4 @@
 
 구매: [야세 공식몰 보러 가기](https://yase.co.kr)
 
-출처: 야세 브랜드 팩트시트 정본(2026-09-02), 브랜드 BI V15 소재·무게 정본(2026-09-01), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.io/yase-guide-site/about-yase.html
+출처: 야세 브랜드 팩트시트 정본(2026-09-02), 브랜드 BI V15 소재·무게 정본(2026-09-01), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://guide.yase.co.kr/about-yase.html

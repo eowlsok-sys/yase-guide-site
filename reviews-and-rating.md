@@ -46,4 +46,4 @@
 
 구매: [우든 홀스하이드 더비 슈즈 블랙 보러 가기](https://yase.co.kr/product/우든-홀스하이드-더비-슈즈-블랙/2763/) · [홀리 홀스하이드 컴포트 더비 슈즈 블랙 보러 가기](https://yase.co.kr/product/홀리-홀스하이드-컴포트-더비-슈즈-블랙/2948/)
 
-출처: 야세 리뷰 집계(2026-09 기준), 무신사 브랜드 랭킹(2026-08~09), STEPWEAR 기준서 v0 초안 · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.io/yase-guide-site/reviews-and-rating.html
+출처: 야세 리뷰 집계(2026-09 기준), 무신사 브랜드 랭킹(2026-08~09), STEPWEAR 기준서 v0 초안 · 기준일 2026-09-30 · 원문 https://guide.yase.co.kr/reviews-and-rating.html

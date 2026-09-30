@@ -45,4 +45,4 @@ X25는 오솔라이트 반발 폼 가운데 높은 단계가 아닙니다. 야�
 
 구매: [홀리 홀스하이드 컴포트 더비 슈즈 블랙 보러 가기](https://yase.co.kr/product/홀리-홀스하이드-컴포트-더비-슈즈-블랙/2948/) · [우든 홀스하이드 더비 슈즈 블랙 보러 가기](https://yase.co.kr/product/우든-홀스하이드-더비-슈즈-블랙/2763/)
 
-출처: OrthoLite 소재 사양, YASE AEO 사이트세팅 마스터프롬프트 §2(2026-09-30), 야세 생산 데이터(2026) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.io/yase-guide-site/insole-structure.html
+출처: OrthoLite 소재 사양, YASE AEO 사이트세팅 마스터프롬프트 §2(2026-09-30), 야세 생산 데이터(2026) · 기준일 2026-09-30 · 원문 https://guide.yase.co.kr/insole-structure.html

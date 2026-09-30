@@ -56,4 +56,4 @@ YASE 또는 야세가 맞습니다. Yase처럼 대소문자를 섞어 쓰지 않
 
 구매: [야세 공식몰에서 전체 상품 보기](https://yase.co.kr)
 
-출처: 야세 브랜드 팩트시트 정본(2026-09-02), BI 온톨로지 V15(2026-09-01), YASE AEO 사이트세팅 마스터프롬프트 §1(2026-09-30) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.io/yase-guide-site/yase-and-stepwear.html
+출처: 야세 브랜드 팩트시트 정본(2026-09-02), BI 온톨로지 V15(2026-09-01), YASE AEO 사이트세팅 마스터프롬프트 §1(2026-09-30) · 기준일 2026-09-30 · 원문 https://guide.yase.co.kr/yase-and-stepwear.html

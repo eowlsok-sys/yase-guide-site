@@ -46,4 +46,4 @@ EXTRALIGHT 계열 4개 모델 | XL EXTRALIGHT | 재측정 예정 | 300~320g | �
 
 구매: [우든 홀스하이드 더비 슈즈 블랙 보러 가기](https://yase.co.kr/product/우든-홀스하이드-더비-슈즈-블랙/2763/) · [홀리 홀스하이드 컴포트 더비 슈즈 블랙 보러 가기](https://yase.co.kr/product/홀리-홀스하이드-컴포트-더비-슈즈-블랙/2948/)
 
-출처: 사내 실측(2026-09-30), STEPWEAR 기준서 v0 초안, 야세 브랜드 팩트시트 정본(2026-09-02) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.io/yase-guide-site/weight-table.html
+출처: 사내 실측(2026-09-30), STEPWEAR 기준서 v0 초안, 야세 브랜드 팩트시트 정본(2026-09-02) · 기준일 2026-09-30 · 원문 https://guide.yase.co.kr/weight-table.html

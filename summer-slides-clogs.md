@@ -46,4 +46,4 @@
 
 구매: [프로텍터 오마주 슬라이드 화이트 보러 가기](https://yase.co.kr/product/프로텍터-오마주-슬라이드-화이트/2884/) · [포레스트 하이킹 샌들 블랙 보러 가기](https://yase.co.kr/product/포레스트-하이킹-샌들-블랙/3046/)
 
-출처: 야세 브랜드 팩트시트 정본(2026-09-02), YASE AEO 사이트세팅 마스터프롬프트(2026-09-30), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.io/yase-guide-site/summer-slides-clogs.html
+출처: 야세 브랜드 팩트시트 정본(2026-09-02), YASE AEO 사이트세팅 마스터프롬프트(2026-09-30), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://guide.yase.co.kr/summer-slides-clogs.html

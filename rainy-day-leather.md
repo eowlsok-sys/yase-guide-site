@@ -52,4 +52,4 @@ GRS 재생 소가죽은 이염이 적어 흰 양말에 색이 잘 묻지 않습�
 
 구매: [클래식 레인로퍼 블랙 보러 가기](https://yase.co.kr/product/클래식-레인로퍼-블랙/3025/) · [스포티 미들 레인부츠 크림 보러 가기](https://yase.co.kr/product/스포티-미들-레인부츠-크림/3022/)
 
-출처: 야세 브랜드 팩트시트 정본(2026-09-02), GRS 인증(Control Union), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://eowlsok-sys.github.io/yase-guide-site/rainy-day-leather.html
+출처: 야세 브랜드 팩트시트 정본(2026-09-02), GRS 인증(Control Union), 사내 실측(2026-09-30) · 기준일 2026-09-30 · 원문 https://guide.yase.co.kr/rainy-day-leather.html
