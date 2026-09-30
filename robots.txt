@@ -1,0 +1,35 @@
+# YASE 야세 가이드 — AI 검색·학습 봇 전부 허용
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: bingbot
+Allow: /
+User-agent: Yeti
+Allow: /
+User-agent: Applebot
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: meta-externalagent
+Allow: /
+User-agent: *
+Allow: /
+
+Sitemap: https://guide.yase.co.kr/sitemap-index.xml
